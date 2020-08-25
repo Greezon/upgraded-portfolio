@@ -1,30 +1,28 @@
-# About.... Me!
+# My Portfolio
 
-### I attemped to make a bio using bootstrap. In doing so I gained a mountain of knowledge. A tip of the iceberg included a grid system, image fluidity, positioning, specificity, dev tools, and so much more. I really focused on making this project reveal the things I love. I forced myself to create, copy, and manage the directory through the Terminal.
+### I added to my original project, by adding a resume section. It is linked in the header, and also in the portfolio section of my project.
 
 ## HTML
 
-### I started playing around with the nav bar, and fleshing out what I wanted the theme of my page to be. Once I was satisfied with the way things looked, used what was on my homepage as a template. 
+### I added links to my resume, and made a resume page. Showcasing my successes, employment history, interests, and current pictures, and links to social media. 
 
 #### Homepage
-Working on my homepage was a bit of a struggle, until I discovered image fluidity, and researched on positioning behavior. My background proved to be most problematic, i did however get it to respond the way I thought it should.
+The homepage is a quick summary about me, and showcasing my work. I made the homepage from "scratch" and it is all my own work, design, layout and theme.
 
 #### Portfolio Page
-My portfolio page was the most fun to make. I started with a few keywords, and moved from there. After I decided on that I had to fight with my images, and bootstrap rows, and columns.  Most of all fluidity, and size. I am really happy with the way it looks, and has come out. I did create a sticky footer, and had to apply padding to the bottom of my last image to make it look right.
+My portfolio page is the meat of this project. It showcases what I have done, and some of the work that I am most proud of, including links to each of the projects showcased.
 
 
 #### Contact Page
-My contact page in my opinion was the easiest page to work on because I had already learned so much forming my portfolio, and homepage. I put the mp4 video in there so someone may actually want to contact me.
+This contact page needs a little bit more work. I need to actually get it to send and e-mail when hitting send. I have not yet took the time to learn how to do that.
     
 ## CSS
 
 The styling that I added to this page was mostly hover effect. I spent the most time trying to figure out how to make things "POP".
-   
-# What I learned
-When looking at webpages now, I find that I can build them, change them, and most of all make them better. I also found that I really enjoy figuring out all of the behavior of websites.
+
    
 
-https://greezon.github.io/bioproject/index.html
+https://greezon.github.io/upgraded-bioproject/index.html
 
 ![Alt text](./assets/images/readme.png "Homepage")
 
