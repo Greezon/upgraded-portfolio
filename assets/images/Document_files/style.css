@@ -1,0 +1,52 @@
+body{
+
+    background: url(../images/darkrocks.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.border-bottom{
+
+    color: azure;
+}
+
+#hhp0:hover{
+
+    color: hotpink !important;   
+}
+
+#hhp1:hover{
+    color: hotpink !important;
+}
+
+#hhp2:hover{
+    color: hotpink !important;
+}
+
+#hhp0{
+    color: white;
+    font-size: 1.5rem;
+}
+
+#hhp1{
+    color: white;
+    font-size: 1.5rem;
+}
+
+#hhp2{
+    color: white;
+    font-size: 1.5rem;
+}
+
+#sf{
+
+    width: 100%;
+    bottom: 0px;
+    position: fixed;
+
+}
+
+
+
+
