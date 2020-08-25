@@ -1,10 +1,8 @@
 # My Portfolio
 
-### I added to my original project, by adding a resume section. It is linked in the header, and also in the portfolio section of my project.
+### I added to my original portfolio project, by adding a resume section. It is linked in the header, and also in the portfolio section of my project.
 
-## HTML
-
-### I added links to my resume, and made a resume page. Showcasing my successes, employment history, interests, and current pictures, and links to social media. 
+#### My resume is showcasing my successes, employment history, interests, current pictures, and links to social media. 
 
 #### Homepage
 The homepage is a quick summary about me, and showcasing my work. I made the homepage from "scratch" and it is all my own work, design, layout and theme.
@@ -22,7 +20,7 @@ The styling that I added to this page was mostly hover effect. I spent the most 
 
    
 
-https://greezon.github.io/upgraded-bioproject/index.html
+https://greezon.github.io/upgraded-portfolio/
 
 ![Alt text](./assets/images/readme.png "Homepage")
 
